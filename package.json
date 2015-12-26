@@ -1,0 +1,22 @@
+{
+  "name": "imapper-storage-memory",
+  "version": "0.3.0",
+  "description": "Memory storage plugin for Imapper https://github.com/deitch/imapper",
+  "main": "storage-memory.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": "git@github.com:deitch/imapper-storage-memory.git",
+  "keywords": [
+    "IMAP",
+    "Email",
+    "imapper"
+  ],
+  "dependencies": {
+    "async": "^1.5.0",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6"
+  },
+  "author": "Avi Deitcher http://github.com/deitch",
+  "license": "MIT"
+}
