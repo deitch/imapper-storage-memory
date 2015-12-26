@@ -1,8 +1,8 @@
 {
   "name": "imapper-storage-memory",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Memory storage plugin for Imapper https://github.com/deitch/imapper",
-  "main": "storage-memory.js",
+  "main": "lib/storage.js",
   "scripts": {
     "test": "npm test"
   },
