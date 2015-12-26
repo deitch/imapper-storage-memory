@@ -1,0 +1,2 @@
+# imapper Storage Memory Plugin
+
